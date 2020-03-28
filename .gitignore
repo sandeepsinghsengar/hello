@@ -1,8 +1,7 @@
 # Prerequisites
 *.d
 
-# Object files
-*.o
+#This is a new readme file. created by me. *.o
 *.ko
 *.obj
 *.elf
